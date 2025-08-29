@@ -4,4 +4,4 @@ Here we have the things which will be helpful for the Data Science, Machine Lear
 
 * [Pandas Sheets](https://github.com/Uttam1618/mygoldenpie/wiki/Pandas-Sheet) 
 * [Numpy Sheets](https://github.com/Uttam1618/mygoldenpie/wiki/sheets-of-Numpy)
-* [Pandas on Collab] (https://github.com/Uttam1618/mygoldenpie/blob/main/Pandas.ipynb)
+* [new sheets](https://github.com/Uttam1618/mygoldenpie/blob/main/Numpy_Sheets.ipynb)
