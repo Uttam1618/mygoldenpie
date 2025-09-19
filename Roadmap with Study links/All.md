@@ -1,5 +1,6 @@
 # Python Programming Language
 1. [python exercise in kaggle](https://www.kaggle.com/learn/python)
+2. [python lesson in google](https://developers.google.com/edu/python)
 # Data Structures and Algorithms
 
 # Data Science 
