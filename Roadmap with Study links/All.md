@@ -5,7 +5,7 @@
 1. [Order of growths](https://www.geeksforgeeks.org/gate/order-o-f-growth/)
 ## Data Strucutures
 1. [array](https://www.w3schools.com/dsa/dsa_data_arrays.php)
-   Algorithms
+   ### Algorithms
    1. [bubble sort](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
    
 # Data Science 
