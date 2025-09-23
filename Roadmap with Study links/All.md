@@ -3,10 +3,11 @@
 2. [python lesson in google](https://developers.google.com/edu/python)
 # Data Structures and Algorithms
 1. [Order of growths](https://www.geeksforgeeks.org/gate/order-o-f-growth/)
-## Data Strucutures
+## Data Strucuture with their algorithms 
+### Array
 1. [array](https://www.w3schools.com/dsa/dsa_data_arrays.php)
-   ### Algorithms
-   1. [bubble sort](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
+2. [bubble sort](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
+3. [Time complexity of Bubble sort](https://www.w3schools.com/dsa/dsa_timecomplexity_bblsort.php)
    
 # Data Science 
 1. [Descriptive Statistics](https://medium.com/@zahidu864/exploring-descriptive-statistics-in-data-science-with-python-9b8ec4b4887b)
