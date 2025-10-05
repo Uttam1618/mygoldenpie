@@ -8,10 +8,11 @@
 ### Array
 1. [array](https://www.w3schools.com/dsa/dsa_data_arrays.php)
 ### Algorithms used in Array
-3. [bubble sort](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
-4. [Video for bubble sort](https://youtu.be/00mmzkOvLlM?si=Wffdp58ZUXScp4Il)
-5. [Time complexity of Bubble sort](https://www.w3schools.com/dsa/dsa_timecomplexity_bblsort.php)
-6. [Video for selection sort](https://youtu.be/xWpqj3s6ebM?si=ljbjQkqIPlgzxclS)
+1. [bubble sort](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
+2. [Video for bubble sort](https://youtu.be/00mmzkOvLlM?si=Wffdp58ZUXScp4Il)
+3. [Time complexity of Bubble sort](https://www.w3schools.com/dsa/dsa_timecomplexity_bblsort.php)
+4. [Video for selection sort](https://youtu.be/xWpqj3s6ebM?si=ljbjQkqIPlgzxclS)
+5. [Time Complexity of Selection Sort](https://www.w3schools.com/dsa/dsa_timecomplexity_selsort.php)
    
 # Data Science 
 1. [Descriptive Statistics](https://medium.com/@zahidu864/exploring-descriptive-statistics-in-data-science-with-python-9b8ec4b4887b)
