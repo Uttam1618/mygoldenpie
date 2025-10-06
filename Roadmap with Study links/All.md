@@ -13,6 +13,7 @@
 3. [Time complexity of Bubble sort](https://www.w3schools.com/dsa/dsa_timecomplexity_bblsort.php)
 4. [Video for selection sort](https://youtu.be/xWpqj3s6ebM?si=ljbjQkqIPlgzxclS)
 5. [Time Complexity of Selection Sort](https://www.w3schools.com/dsa/dsa_timecomplexity_selsort.php)
+6. [Video For Insertion Sort](https://www.youtube.com/watch?v=9j7llneJ77o)
    
 # Data Science 
 1. [Descriptive Statistics](https://medium.com/@zahidu864/exploring-descriptive-statistics-in-data-science-with-python-9b8ec4b4887b)
